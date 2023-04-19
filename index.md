@@ -1,7 +1,7 @@
 ---
 title: Maison Page de Usercentric
 ---
-![Texte décrivant l'image](https://github.com/usercentric1/test-website-repo-3796/blob/main/images/Univers.jpg)
+![Texte décrivant l'image](https://github.com/usercentric1/test-website-repo-3796/blob/main/images/Univers.png)
 
 # Propos liminaire
 
